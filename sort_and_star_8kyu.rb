@@ -4,9 +4,9 @@
 # (case-sensitive!!) and then return the first value. The returned value must
 # be a string, and have '***' between each of its letters.
 
-# Note the test show an array of strings.
+# Note the test shows an array of strings.
 
-# Gogle searches for "ruby .sort", "ruby .first", "ruby.scan", "ruby.join"
+# Google searches for "ruby .sort", "ruby .first", "ruby.scan", "ruby.join"
 
 def two_sort(s)
 #s.sort - this will return a sorted list - this is an Array function
