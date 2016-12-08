@@ -9,7 +9,6 @@ expanded_form(42); # Should return '40 + 2'
 expanded_form(70304); # Should return '70000 + 300 + 4'
 =end
 
-
 def expanded_form(num)
   # Your code here
 
