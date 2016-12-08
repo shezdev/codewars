@@ -14,8 +14,8 @@ Note:
 =end
 
 def sum_from_string(str)
-  # str.gsub(/\D/, ' ')}" -  \D matches non-digits and replaces with a space " "
-  # .split(" ")} - Using .split(" ") to separate the string into an array of strings or use str.split(/\s/)
+  # str.gsub(/\D/, ' ') -  \D matches non-digits and replaces with a space " "
+  # .split(" ") - Using .split(" ") to separate the string into an array of strings or use str.split(/\s/)
   # .map(&:to_i) - converts type from an array of strings to an array of integers.
   # Now can use .each {|i| sum += i} to add the ints and put in variable called sum
 
